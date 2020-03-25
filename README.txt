@@ -2,6 +2,8 @@ A discord bot in python to quickly pick random numbers, like a dice of any size
 
 requires discord.py, obviously.
 
+NOTE: the script requires a token
+
 commands:
 
 //dr [numbers]
