@@ -16,7 +16,7 @@ could return 20 18 3 1
 
 ex: //sum
 
-could return 42
+would return 42, assuming the last dice roll
 
 return the sum of the last dice roll
 
